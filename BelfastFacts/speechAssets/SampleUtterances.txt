@@ -1,0 +1,17 @@
+GetNewFactIntent a fact
+GetNewFactIntent a belfast fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a fact about belfast
+GetNewFactIntent tell me a belfast fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a fact about belfast fact
+GetNewFactIntent give me a belfast fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me belfast related trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me belfast related trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some belfast information
+GetNewFactIntent give me some information about belfast
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
