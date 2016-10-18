@@ -1,0 +1,19 @@
+GetNewFactIntent a fact
+GetNewFactIntent a sweden fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a sweden fact
+GetNewFactIntent tell me a fact about sweden
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a sweden fact
+GetNewFactIntent give me a fact about sweden
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me sweden trivia
+GetNewFactIntent tell me some trivia on sweden
+GetNewFactIntent give me trivia
+GetNewFactIntent give me sweden trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some sweden information
+GetNewFactIntent give me some information on sweden
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent give me facts about sweden
